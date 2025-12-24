@@ -41,4 +41,4 @@ This project uses large language model (LLM)–based prompt logic to dynamically
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Royswastik-code/Ai-story-adventure.git
+   git clone https://github.com/Royswastik-code/ai-story-adventure-standalone
